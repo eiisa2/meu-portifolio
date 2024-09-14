@@ -10,7 +10,7 @@ import {
   Link,
 } from "react-router-dom";
 import Home from './pages/Home';
-import SobreMim from './pages/Sobremim';
+import SobreMim from './pages/SobreMim';
 import Contato from './pages/Contato';
 
 const router = createBrowserRouter([
