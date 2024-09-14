@@ -8,9 +8,10 @@ import NavDropdown from 'react-bootstrap/NavDropdown';
 
 function Header(){
     return(
-        <Navbar bg="dark" data-bs-theme="dark" expand="lg" className="bg-body-tertiary">
+        <Navbar bg="#FBFBFB" data-bs-theme="#FBFBFB" expand="lg" className="bg-body-tertiary">
       <Container fluid>
-        <Navbar.Brand href="#">Eiisa</Navbar.Brand>
+      <div className="logo"><img src="Group.svg" alt="" /></div>
+        <Navbar.Brand href="#">Isabela</Navbar.Brand>
         <Navbar.Toggle aria-controls="navbarScroll" />
         <Navbar.Collapse id="navbarScroll">
           <Nav

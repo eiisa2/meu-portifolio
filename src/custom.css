@@ -1,0 +1,10 @@
+.caixagrande{
+    background-color: #FBFBFB;
+    width: 100%;
+    min-height: 800px;
+}
+
+.logo{
+    padding: 32px;
+    margin: 5px;
+}
